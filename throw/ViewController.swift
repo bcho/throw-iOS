@@ -3,7 +3,7 @@
 //  throw
 //
 //  Created by hbc on 28/11/2017.
-//  Copyright © 2017 rocks.hbc. All rights reserved.
+//  Copyright © 2017 b4fun. All rights reserved.
 //
 
 import UIKit
